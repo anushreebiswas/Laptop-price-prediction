@@ -18,7 +18,7 @@ The dataset used for this project was sourced from Kaggle and consists of synthe
 
 - Understand how different specifications affect laptop pricing.
 - Engineer meaningful features from raw data (like PPI, touchscreen, memory type).
-- Build a regression model that accurately predicts laptop prices.
+- Build a regression model with linear,ridge and lasso to accurately predict laptop prices.
 
 ---
 
